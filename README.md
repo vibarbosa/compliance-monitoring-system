@@ -77,4 +77,8 @@ graph TD
 
 # Desafios
 
+<div align="justify">
 
+O principal desafio para realizar o processamento de alertas, foi encontrar uma solução para a geração de dados, o processo por JSON não estava totalmente fluido, então a solução de gerar os dados randomicamente foi implementada para trazer diferentes tipos de outputs com a ideia de simular novos alertas a cada execução. 
+
+</div>
